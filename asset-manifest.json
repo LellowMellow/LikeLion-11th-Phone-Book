@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/LikeLion-11th-Phone-Book/static/css/main.ecd7dca2.css",
+    "main.js": "/LikeLion-11th-Phone-Book/static/js/main.e6dade8f.js",
+    "static/js/787.090ae5da.chunk.js": "/LikeLion-11th-Phone-Book/static/js/787.090ae5da.chunk.js",
+    "static/media/phone.png": "/LikeLion-11th-Phone-Book/static/media/phone.02ef1aba1a3fea4a9bd3.png",
+    "static/media/qr1d.svg": "/LikeLion-11th-Phone-Book/static/media/qr1d.6a96623ad4455495ee2892a03068a532.svg",
+    "static/media/qr0d.svg": "/LikeLion-11th-Phone-Book/static/media/qr0d.b7ce15e34e7306e16ff5c76aea5f1a29.svg",
+    "static/media/qr1w.svg": "/LikeLion-11th-Phone-Book/static/media/qr1w.9e7fa9c72fecbd922255228d703bb79a.svg",
+    "static/media/qr2d.svg": "/LikeLion-11th-Phone-Book/static/media/qr2d.4aa90cc54d8de44cc8d85755b93c6cac.svg",
+    "static/media/qr0w.svg": "/LikeLion-11th-Phone-Book/static/media/qr0w.ae5c61389ba4b9bf2b815f1726f0e24d.svg",
+    "static/media/qr2w.svg": "/LikeLion-11th-Phone-Book/static/media/qr2w.fedf04b195310aa53bce74871e068c54.svg",
+    "static/media/slick.svg": "/LikeLion-11th-Phone-Book/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/LikeLion-11th-Phone-Book/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/LikeLion-11th-Phone-Book/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/LikeLion-11th-Phone-Book/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/LikeLion-11th-Phone-Book/index.html",
+    "main.ecd7dca2.css.map": "/LikeLion-11th-Phone-Book/static/css/main.ecd7dca2.css.map",
+    "main.e6dade8f.js.map": "/LikeLion-11th-Phone-Book/static/js/main.e6dade8f.js.map",
+    "787.090ae5da.chunk.js.map": "/LikeLion-11th-Phone-Book/static/js/787.090ae5da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecd7dca2.css",
+    "static/js/main.e6dade8f.js"
+  ]
+}
